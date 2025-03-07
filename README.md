@@ -1,6 +1,21 @@
-# Getting Started with Create React App and Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+E-Commerce Web App 🛒
+This is a fully functional E-Commerce Web Application built with React, Redux, Firebase, and React Router. The app offers a seamless shopping experience with user authentication, cart management, and order tracking.
+
+🚀 Features:
+✅ User Authentication (Sign Up, Login, Persistent Sessions) 🔐
+✅ Responsive & Modern UI 🎨
+✅ Product Listing & Shopping Cart 🛍️
+✅ Order Management 📦
+✅ Toast Notifications for user-friendly interactions ⚡
+✅ Dynamic Routing with React Router 🌐
+✅ State Management with Redux 💡
+
+🛠️ Tech Stack:
+Frontend: React, Redux, React Router
+Backend & Auth: Firebase Authentication
+Styling: CSS, Bootstrap
+Notifications: React Toastify
 
 ## Available Scripts
 
